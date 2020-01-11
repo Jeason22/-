@@ -1,9 +1,4 @@
 
-- [数据结构与算法相关书籍](#数据结构与算法相关书籍)
-- [计算机基础](#计算机基础)
-  - [操作系统](#操作系统)
-  - [汇编语言](#汇编语言)
-  - [计算机网络](#计算机网络)# 大学知识体系  
 - ## 基础课
 ### 微积分
 ### 线性代数
@@ -94,7 +89,7 @@
 - 30天填自制操作系统       [百度云下载链接](https://pan.baidu.com/s/1QSIUlat1HpllNFMWY9WBzw)  密码:pxxr
 - 操作系统之哲学原理       [百度云下载链接](https://pan.baidu.com/s/1GEfALJhtJ2IJtjtKcLneKg)  密码:hua7
 - 程序是怎样跑起来的       [百度云下载链接](https://pan.baidu.com/s/1DZSavIK8ipUvk6dle67TOQ)  密码:kued
-- 深入理解计算机操作系统       [百度云下载链接](https://pan.baidu.com/s/1xrDC6wGAH7Yv3uuXzVUWxg)  密码:2toh
+- 深入理解计算机操作系统       [百度云下载链接https://pan.baidu.com/s/1xrDC6wGAH7Yv3uuXzVUWxg)  密码:2toh
 - 现代操作系统       [百度云下载链接](https://pan.baidu.com/s/1QA0VZ20pA8giW6ax7AHQBA)  密码:huk2
 
 
